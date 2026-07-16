@@ -33,7 +33,9 @@ tests/test_core.py
 
 ## 追加した機能（各ペアが1行ずつ足す）
 
--
+-スコアを計算する関数calculate_score()
+-難易度を選択する関数select_difficulty()
+-回数制限を設定する関数get_limit()
 
 ## 進め方
 - 仕様を書く → **AI に実装させる**（コースサイトの「AI の使い方」参照）→ 遊んで確認＋`uv run pytest`。
