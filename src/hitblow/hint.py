@@ -1,5 +1,3 @@
-int.py
-
 """ヒント機能。"""
 
 import random
